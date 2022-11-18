@@ -1,4 +1,4 @@
-# Projecto f1
+# Projecto League of legends
 
 ## hecho por yeray Ibáñez
 
@@ -14,6 +14,6 @@
 
 ### Descripcion del proyecto
 
-1. En este proyecto daremos un repaso a la temporada 2022 de la fórmula 1 ademas de recordar a algunos de los mas grandes pilotos y rivalidades de la historia. también veremos algunas noticias relacionadas con el cambio de reglamento para la temporada 2023. <br>
+1. En este proyecto daremos un repaso a la temporada 2022. También veremos algunas noticias relacionadas con los cambios para la temporada 2023. <br>
 
 <h3>Para ello hemos utilizado css y html.</h3>
