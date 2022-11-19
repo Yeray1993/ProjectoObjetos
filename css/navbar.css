@@ -60,3 +60,12 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
 	display: block;
 }
+body {
+	background-color: #848484;
+}
+
+section {
+	margin: 5px px;
+	padding: 20px;
+	background-color: #ffffff;
+}
