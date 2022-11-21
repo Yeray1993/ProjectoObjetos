@@ -8,12 +8,12 @@
 
 ## [pages](http://www.yeray.ml)
 
-## ![UML](./img/UML.jpg)
+## ![UML](./img/UML.png)
 
 ---
 
 ### Descripcion del proyecto
 
-1. En este proyecto daremos un repaso a la temporada 2022. También veremos algunas noticias relacionadas con los cambios para la temporada 2023. <br>
+1. En este proyecto hablo un poquito de league of legends añadiendo algunos videos imagenes. tambien contiene una seccionn de noticias donde veremos los cambios de la ultima versión. <br>
 
 <h3>Para ello hemos utilizado css y html.</h3>
