@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<style>
+			label {
+				margin-right: 30px;
+			}
+			div {
+				margin: 20px;
+			}
+			#enviar {
+				cursor: pointer;
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			<form action="recoger_datos.php" method="post">
+				<div><label>Nombre</label><input type="text" name="name" id="name" placeholder="Rosa Melano" /><br /></div>
+				<div><label>Edad:</label><input type="number" name="edad" id="edad" placeholder="20" /><br /></div>
+				<div><label>CP</label><input type="number" name="cp" id="cp " placeholder="18327" /><br /></div>
+
+				<div><label>Email</label><input type="email" name="Email" id="email" placeholder="Rosa_me@ejemplo.com" /></div>
+				<input type="submit" value="Enviar" class="enviar" />
+			</form>
+		</div>
+	</body>
+</html>
