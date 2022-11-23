@@ -8,7 +8,7 @@
 
 ## [pages](http://www.yeray.ml)
 
-## ![UML](./img/UML.png)
+## ![UML](./img/uml.png)
 
 ---
 
